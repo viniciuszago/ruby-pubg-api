@@ -1,4 +1,8 @@
 # PubgApi
+
+
+[![Build Status](https://travis-ci.org/viniciuszago/ruby-pubg-api.svg)](https://travis-ci.org/viniciuszago/ruby-pubg-api)
+
 This is a simple ruby wrapper for https://pubgtracker.com/site-api
 
 ## Installation
