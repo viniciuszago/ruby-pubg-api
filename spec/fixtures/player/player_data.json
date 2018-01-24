@@ -1,0 +1,521 @@
+{
+  "pubgTrackerId":1526,
+  "accountId":"account.d50fdc18fcad49c691d38466bed6f8fd",
+  "platform":4,
+  "nickname":"shroud",
+  "avatar":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/7a/7a54e106fdaf0a824d493a232851d5663b97c6fc.jpg",
+  "lastUpdated":"2018-01-24T09:41:09.335259Z",
+  "stats":[{
+    "region":"na",
+    "season":"2018-01",
+    "mode":"solo-fpp",
+    "stats":[
+      {
+        "label":"K/D Ratio",
+        "field":"KillDeathRatio",
+        "category":"Performance",
+        "valueDec":5.18,
+        "value":"5.18",
+        "rank":278,
+        "percentile":2.6,
+        "displayValue":"5.18"
+      },
+      {
+        "label":"Win %",
+        "field":"WinRatio",
+        "category":"Performance",
+        "valueDec":8.67,
+        "value":"8.67",
+        "rank":2344,
+        "percentile":9.0,
+        "displayValue":"8.7%"
+      },
+      {
+        "label":"Time Survived",
+        "field":"TimeSurvived",
+        "category":"Performance",
+        "valueDec":98338.74,
+        "value":"98338.74",
+        "rank":9137,
+        "percentile":1.8,
+        "displayValue":"1d 3h 18m "
+      },
+      {
+        "label":"Rounds Played",
+        "field":"RoundsPlayed",
+        "category":"Performance",
+        "valueInt":150,
+        "value":"150",
+        "rank":7873,
+        "percentile":1.6,
+        "displayValue":"150"
+      },
+      {
+        "label":"Wins",
+        "field":"Wins",
+        "category":"Performance",
+        "valueInt":13,
+        "value":"13",
+        "percentile":0.3,
+        "displayValue":"13"
+      },
+      {
+        "label":"Win Top 10 Ratio",
+        "field":"WinTop10Ratio",
+        "category":"Performance",
+        "valueDec":0.5,
+        "value":"0.5",
+        "rank":1470,
+        "percentile":9.0,
+        "displayValue":"0.5%"
+      },
+      {
+        "label":"Top 10s",
+        "field":"Top10s",
+        "category":"Performance",
+        "valueInt":26,
+        "value":"26",
+        "rank":6291,
+        "percentile":1.4,
+        "displayValue":"26"
+      },
+      {
+        "label":"Top 10 Rate",
+        "field":"Top10Ratio",
+        "category":"Performance",
+        "valueDec":17.33,
+        "value":"17.33",
+        "rank":13574,
+        "percentile":31.0,
+        "displayValue":"17.3%"
+      },
+      {
+        "label":"Losses",
+        "field":"Losses",
+        "category":"Performance",
+        "valueInt":137,
+        "value":"137",
+        "rank":9322,
+        "percentile":1.9,
+        "displayValue":"137"
+      },
+      {
+        "label":"Rating",
+        "field":"Rating",
+        "category":"Skill Rating",
+        "valueDec":1754.0,
+        "value":"1754",
+        "percentile":0.9088,
+        "displayValue":"1,754"
+      },
+      {
+        "label":"Best Rating",
+        "field":"BestRating",
+        "category":"Skill Rating",
+        "valueDec":1833.44,
+        "value":"1833.44",
+        "rank":2733,
+        "percentile":2.6,
+        "displayValue":"1,833"
+      },
+      {
+        "label":"Best Rank",
+        "field":"BestRank",
+        "category":"Skill Rating",
+        "valueInt":347,
+        "value":"347",
+        "rank":0,
+        "percentile":1.2,
+        "displayValue":"347"
+      },
+      {
+        "label":"Avg Dmg per Match",
+        "field":"DamagePg",
+        "category":"Per Game",
+        "valueDec":505.11,
+        "value":"505.11",
+        "rank":189,
+        "percentile":3.0,
+        "displayValue":"505.11"
+      },
+      {
+        "label":"Headshot Kills Pg",
+        "field":"HeadshotKillsPg",
+        "category":"Per Game",
+        "valueDec":1.32,
+        "value":"1.32",
+        "rank":339,
+        "percentile":3.8,
+        "displayValue":"1.32"
+      },
+      {
+        "label":"Heals Pg",
+        "field":"HealsPg",
+        "category":"Per Game",
+        "valueDec":1.59,
+        "value":"1.59",
+        "rank":15804,
+        "percentile":27.0,
+        "displayValue":"1.59"
+      },
+      {
+        "label":"Kills Pg",
+        "field":"KillsPg",
+        "category":"Per Game",
+        "valueDec":4.73,
+        "value":"4.73",
+        "rank":155,
+        "percentile":2.9,
+        "displayValue":"4.73"
+      },
+      {
+        "label":"Move Distance Pg",
+        "field":"MoveDistancePg",
+        "category":"Per Game",
+        "valueDec":2122.22,
+        "value":"2122.22",
+        "rank":13590,
+        "percentile":41.0,
+        "displayValue":"2.1km"
+      },
+      {
+        "label":"Revives Pg",
+        "field":"RevivesPg",
+        "category":"Per Game",
+        "valueDec":0.0,
+        "value":"0",
+        "rank":1,
+        "percentile":100.0,
+        "displayValue":"0.00"
+      },
+      {
+        "label":"Road Kills Pg",
+        "field":"RoadKillsPg",
+        "category":"Per Game",
+        "valueDec":0.01,
+        "value":"0.01",
+        "rank":7182,
+        "percentile":8.0,
+        "displayValue":"0.01"
+      },
+      {
+        "label":"Team Kills Pg",
+        "field":"TeamKillsPg",
+        "category":"Per Game",
+        "valueDec":0.0,
+        "value":"0",
+        "rank":14966,
+        "percentile":100.0,
+        "displayValue":"0.00"
+      },
+      {
+        "label":"Time Survived Pg",
+        "field":"TimeSurvivedPg",
+        "category":"Per Game",
+        "valueDec":655.59,
+        "value":"655.59",
+        "rank":22796,
+        "percentile":56.0,
+        "displayValue":"10m "
+      },
+      {
+        "label":"Top 10s Pg",
+        "field":"Top10sPg",
+        "category":"Per Game",
+        "valueDec":0.17,
+        "value":"0.17",
+        "rank":13576,
+        "percentile":32.0,
+        "displayValue":"0.17"
+      },
+      {
+        "label":"Kills",
+        "field":"Kills",
+        "category":"Combat",
+        "valueInt":710,
+        "value":"710",
+        "percentile":0.1,
+        "displayValue":"710"
+      },
+      {
+        "label":"Assists",
+        "field":"Assists",
+        "category":"Combat",
+        "valueInt":23,
+        "value":"23",
+        "rank":8507,
+        "percentile":0.6,
+        "displayValue":"23"
+      },
+      {
+        "label":"Suicides",
+        "field":"Suicides",
+        "category":"Combat",
+        "valueInt":0,
+        "value":"0",
+        "rank":14966,
+        "percentile":100.0,
+        "displayValue":"0"
+      },
+      {
+        "label":"Team Kills",
+        "field":"TeamKills",
+        "category":"Combat",
+        "valueInt":0,
+        "value":"0",
+        "rank":14966,
+        "percentile":100.0,
+        "displayValue":"0"
+      },
+      {
+        "label":"Headshot Kills",
+        "field":"HeadshotKills",
+        "category":"Combat",
+        "valueInt":198,
+        "value":"198",
+        "rank":612,
+        "percentile":0.1,
+        "displayValue":"198"
+      },
+      {
+        "label":"Headshot Kill Ratio",
+        "field":"HeadshotKillRatio",
+        "category":"Combat",
+        "valueDec":0.28,
+        "value":"0.28",
+        "rank":12155,
+        "percentile":28.0,
+        "displayValue":"0.28"
+      },
+      {
+        "label":"Vehicle Destroys",
+        "field":"VehicleDestroys",
+        "category":"Combat",
+        "valueInt":3,
+        "value":"3",
+        "rank":748,
+        "percentile":0.6,
+        "displayValue":"3"
+      },
+      {
+        "label":"Road Kills",
+        "field":"RoadKills",
+        "category":"Combat",
+        "valueInt":1,
+        "value":"1",
+        "rank":2497,
+        "percentile":10.0,
+        "displayValue":"1"
+      },
+      {
+        "label":"Daily Kills",
+        "field":"DailyKills",
+        "category":"Combat",
+        "valueInt":2,
+        "value":"2",
+        "rank":2632,
+        "percentile":54.0,
+        "displayValue":"2"
+      },
+      {
+        "label":"Weekly Kills",
+        "field":"WeeklyKills",
+        "category":"Combat",
+        "valueInt":4,
+        "value":"4",
+        "rank":625,
+        "percentile":47.0,
+        "displayValue":"4"
+      },
+      {
+        "label":"Round Most Kills",
+        "field":"RoundMostKills",
+        "category":"Combat",
+        "valueInt":22,
+        "value":"22",
+        "rank":41,
+        "percentile":0.1,
+        "displayValue":"22"
+      },
+      {
+        "label":"Max Kill Streaks",
+        "field":"MaxKillStreaks",
+        "category":"Combat",
+        "valueInt":5,
+        "value":"5",
+        "rank":1450,
+        "percentile":0.5,
+        "displayValue":"5"
+      },
+      {
+        "label":"Weapons Acquired",
+        "field":"WeaponAcquired",
+        "category":"Combat",
+        "valueInt":0,
+        "value":"0",
+        "rank":0,
+        "percentile":100.0,
+        "displayValue":"0"
+      },
+      {
+        "label":"Days",
+        "field":"Days",
+        "category":"Survival",
+        "valueInt":28,
+        "value":"28",
+        "rank":4348,
+        "percentile":0.3,
+        "displayValue":"28"
+      },
+      {
+        "label":"Longest Time Survived",
+        "field":"LongestTimeSurvived",
+        "category":"Survival",
+        "valueDec":1946.31,
+        "value":"1946.31",
+        "rank":20561,
+        "percentile":10.0,
+        "displayValue":"32m "
+      },
+      {
+        "label":"Most Survival Time",
+        "field":"MostSurvivalTime",
+        "category":"Survival",
+        "valueDec":1946.31,
+        "value":"1946.31",
+        "rank":20561,
+        "percentile":10.0,
+        "displayValue":"32m "
+      },
+      {
+        "label":"Avg Survival Time",
+        "field":"AvgSurvivalTime",
+        "category":"Survival",
+        "valueDec":655.59,
+        "value":"655.59",
+        "rank":23102,
+        "percentile":56.0,
+        "displayValue":"10m "
+      },
+      {
+        "label":"Win Points",
+        "field":"WinPoints",
+        "category":"Performance",
+        "valueInt":1383,
+        "value":"1383",
+        "percentile":6.0,
+        "displayValue":"1,383"
+      },
+      {
+        "label":"Walk Distance",
+        "field":"WalkDistance",
+        "category":"Distance",
+        "valueDec":185559.9,
+        "value":"185559.9",
+        "rank":7360,
+        "percentile":1.5,
+        "displayValue":"185.6km"
+      },
+      {
+        "label":"Ride Distance",
+        "field":"RideDistance",
+        "category":"Distance",
+        "valueDec":132773.7,
+        "value":"132773.7",
+        "rank":6422,
+        "percentile":1.6,
+        "displayValue":"132.8km"
+      },
+      {
+        "label":"Move Distance",
+        "field":"MoveDistance",
+        "category":"Distance",
+        "valueDec":318333.6,
+        "value":"318333.6",
+        "rank":6769,
+        "percentile":1.5,
+        "displayValue":"318.3km"
+      },
+      {
+        "label":"Avg Walk Distance",
+        "field":"AvgWalkDistance",
+        "category":"Distance",
+        "valueDec":1237.07,
+        "value":"1237.07",
+        "rank":16784,
+        "percentile":45.0,
+        "displayValue":"1.2km"
+      },
+      {
+        "label":"Avg Ride Distance",
+        "field":"AvgRideDistance",
+        "category":"Distance",
+        "valueDec":885.16,
+        "value":"885.16",
+        "rank":11996,
+        "percentile":33.0,
+        "displayValue":"0.9km"
+      },
+      {
+        "label":"Longest Kill",
+        "field":"LongestKill",
+        "category":"Distance",
+        "valueDec":361.98,
+        "value":"361.98",
+        "rank":4765,
+        "percentile":4.2,
+        "displayValue":"362.0m"
+      },
+      {
+        "label":"Heals",
+        "field":"Heals",
+        "category":"Support",
+        "valueInt":239,
+        "value":"239",
+        "rank":7736,
+        "percentile":1.2,
+        "displayValue":"239"
+      },
+      {
+        "label":"Revives",
+        "field":"Revives",
+        "category":"Support",
+        "valueInt":0,
+        "value":"0",
+        "rank":1,
+        "percentile":100.0,
+        "displayValue":"0"
+      },
+      {
+        "label":"Boosts",
+        "field":"Boosts",
+        "category":"Support",
+        "valueInt":297,
+        "value":"297",
+        "rank":3961,
+        "percentile":0.7,
+        "displayValue":"297"
+      },
+      {
+        "label":"Damage Dealt",
+        "field":"DamageDealt",
+        "category":"Support",
+        "valueDec":75767.05,
+        "value":"75767.05",
+        "rank":773,
+        "percentile":0.2,
+        "displayValue":"75,767.05"
+      },
+      {
+        "label":"Knock Outs",
+        "field":"DBNOs",
+        "category":"Support",
+        "valueInt":0,
+        "value":"0",
+        "rank":1,
+        "percentile":100.0,
+        "displayValue":"0"
+      }
+    ]
+  }]
+}
